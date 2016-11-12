@@ -5,5 +5,9 @@ public class ClaseA{
   public claseA{
     int x="--";
     int y=0;
+	int z=0;
   }
+	public void mensaje(){
+		Sytem.out.println("Hola");
+	}
 }
