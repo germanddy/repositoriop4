@@ -1,6 +1,9 @@
 public class ClaseA{
-  private int x;
+  private String x;
+  private int y;
+  private int z;
   public claseA{
-    int x=0;
+    int x="--";
+    int y=0;
   }
 }
